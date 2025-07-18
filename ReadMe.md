@@ -1,9 +1,9 @@
 ## 📊 About Me:
-- 🎓 **PhD in Biostatistics** with **8+ years of experience** using data to support **strategic decision-making**.  
-- 🤖 I build **machine learning models** for **prediction** and **process automation**.  
+- 🎓 PhD in Biostatistics with **8+ years of experience** using data to support strategic decision-making.  
+- 🤖 I build **machine learning models** for prediction and process automation.  
 - 📚 I've published **15+ peer-reviewed papers** and share **reproducible code** from several of them in this repository.  
 - 🧠 Passionate about **deep learning** and **model interpretability**.  
-- 🌱 Open to **collaborations** that generate **real-world impact** through data.
+- 🌱 Open to collaborations that generate **real-world impact** through data.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-quintero-sarmiento)
