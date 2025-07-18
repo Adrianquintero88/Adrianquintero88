@@ -7,6 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-quintero-sarmiento)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=7AQojCwAAAAJ&hl=es)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adrianquintero88)
 
 # 💻 Tech Stack:
